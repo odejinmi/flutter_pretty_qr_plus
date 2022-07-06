@@ -8,11 +8,11 @@ Pretty QR code for Flutter. You can round the edges with parameter or use the st
 
 ## Screenshots
 
-  <img src="https://github.com/odejinmi/flutter_pretty_qr_plus/main/images/Scr1.png" width="250"> 
+  <img src="https://github.com/odejinmi/flutter_pretty_qr_plus/blob/main/images/Scr1.png" width="250"> 
 
-  <img src="https://github.com/odejinmi/flutter_pretty_qr_plus/main/images/Scr2.png" width="250"> 
+  <img src="https://github.com/odejinmi/flutter_pretty_qr_plus/blob/main/images/Scr2.png" width="250"> 
 
-  <img src=""https://github.com/odejinmi/flutter_pretty_qr_plus/main/images/Scr3.png" width="250"> 
+  <img src=""https://github.com/odejinmi/flutter_pretty_qr_plus/blob/main/images/Scr3.png" width="250"> 
 
 
 
